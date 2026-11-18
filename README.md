@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-AAwesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation?style=flat-square&color=blue" alt="Last Commit" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-3D-Texture-Synthesis-Material-Generation?style=flat-square&color=teal" alt="Issues" /></a>
@@ -69,81 +69,81 @@ Industry market dynamics are **moderately concentrated at the foundational ecosy
 
 ## 💻 Open-Source GitHub Projects
 
-*Free and open-source applications, procedural material authoring suites, deep learning texture synthesis models, and Blender extensions sorted in descending order by GitHub Stars.*
+*Free and open-source applications, procedural material authoring suites, deep learning texture synthesis models, and Blender extensions sorted in descending order by GitHub_Stars.*
 
-1. **[Blender (`blender/blender`)](https://github.com/blender/blender)** [![GitHub stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
+1. **[Blender (`blender/blender`)](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
    The world's leading open-source (`GPL-2.0+`) 3D creation suite, offering node-based procedural Shader Nodes, multi-tile UDIM texture painting, Cycles PBR map baking, and Open Shading Language (`OSL`) integration.
 
-2. **[Tencent Hunyuan3D-2 (`Tencent-Hunyuan/Hunyuan3D-2`)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** [![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social&color=white)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2/stargazers)  
+2. **[Tencent Hunyuan3D-2 (`Tencent-Hunyuan/Hunyuan3D-2`)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2)** [![GitHub_Stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan3D-2?style=social&color=white)](https://github.com/Tencent-Hunyuan/Hunyuan3D-2/stargazers)  
    State-of-the-art open-source generative 3D framework featuring `Hunyuan3D-Paint` for multi-view consistent, illumination-disentangled, high-resolution PBR texture map generation on arbitrary untextured meshes.
 
-3. **[Dream Textures (`carson-katri/dream-textures`)](https://github.com/carson-katri/dream-textures)** [![GitHub stars](https://img.shields.io/github/stars/carson-katri/dream-textures?style=social&color=white)](https://github.com/carson-katri/dream-textures/stargazers)  
+3. **[Dream Textures (`carson-katri/dream-textures`)](https://github.com/carson-katri/dream-textures)** [![GitHub_Stars](https://img.shields.io/github/stars/carson-katri/dream-textures?style=social&color=white)](https://github.com/carson-katri/dream-textures/stargazers)  
    Popular open-source (`GPL-3.0`) Stable Diffusion integration for Blender that generates seamless tileable textures, complete PBR texture sets, and depth-projected viewport paintings directly in the 3D viewport.
 
-4. **[Material Maker (`RodZill4/material-maker`)](https://github.com/RodZill4/material-maker)** [![GitHub stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers)  
+4. **[Material Maker (`RodZill4/material-maker`)](https://github.com/RodZill4/material-maker)** [![GitHub_Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers)  
    Flagship open-source (`MIT`) procedural material authoring and 3D texture painting application built on Godot Engine—offering 200+ procedural nodes, ray-traced ambient occlusion and normal baking, trim sheet generators, and export presets for Blender, Unity, Godot, and Unreal.
 
-5. **[ArmorPaint (`armory3d/armorpaint`)](https://github.com/armory3d/armorpaint)** [![GitHub stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
+5. **[ArmorPaint (`armory3d/armorpaint`)](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
    GPU-accelerated open-source (`zlib`) standalone 3D PBR texture painting software designed as an ultra-fast, lightweight alternative to Substance Painter with ray-traced baking, live node shaders, and cross-platform tablet support.
 
-6. **[Resynthesizer (`bootchk/resynthesizer`)](https://github.com/bootchk/resynthesizer)** [![GitHub stars](https://img.shields.io/github/stars/bootchk/resynthesizer?style=social&color=white)](https://github.com/bootchk/resynthesizer/stargazers)  
+6. **[Resynthesizer (`bootchk/resynthesizer`)](https://github.com/bootchk/resynthesizer)** [![GitHub_Stars](https://img.shields.io/github/stars/bootchk/resynthesizer?style=social&color=white)](https://github.com/bootchk/resynthesizer/stargazers)  
    High-performance classic open-source (`GPL-2.0+`) algorithm suite for non-parametric example-based texture synthesis, seamless tileable pattern generation, smart hole filling, and theme transfer.
 
-7. **[Materialize (`BoundingBoxSoftware/Materialize`)](https://github.com/BoundingBoxSoftware/Materialize)** [![GitHub stars](https://img.shields.io/github/stars/BoundingBoxSoftware/Materialize?style=social&color=white)](https://github.com/BoundingBoxSoftware/Materialize/stargazers)  
+7. **[Materialize (`BoundingBoxSoftware/Materialize`)](https://github.com/BoundingBoxSoftware/Materialize)** [![GitHub_Stars](https://img.shields.io/github/stars/BoundingBoxSoftware/Materialize?style=social&color=white)](https://github.com/BoundingBoxSoftware/Materialize/stargazers)  
    Classic standalone open-source (`GPL-3.0`) utility for extracting and generating complete PBR map packages (`Height`, `Normal`, `Metallic`, `Smoothness`, and `Ambient Occlusion`) from single photographic source images.
 
-8. **[Texture-Synthesis (`EmbarkStudios/texture-synthesis`)](https://github.com/EmbarkStudios/texture-synthesis)** [![GitHub stars](https://img.shields.io/github/stars/EmbarkStudios/texture-synthesis?style=social&color=white)](https://github.com/EmbarkStudios/texture-synthesis/stargazers)  
+8. **[Texture-Synthesis (`EmbarkStudios/texture-synthesis`)](https://github.com/EmbarkStudios/texture-synthesis)** [![GitHub_Stars](https://img.shields.io/github/stars/EmbarkStudios/texture-synthesis?style=social&color=white)](https://github.com/EmbarkStudios/texture-synthesis/stargazers)  
    Blazing-fast open-source (`MIT` / `Apache-2.0`) Rust library and CLI for example-based texture synthesis, guided texture generation, image inpainting, and seamless repeated tiling.
 
-9. **[KTX-Software (`KhronosGroup/KTX-Software`)](https://github.com/KhronosGroup/KTX-Software)** [![GitHub stars](https://img.shields.io/github/stars/KhronosGroup/KTX-Software?style=social&color=white)](https://github.com/KhronosGroup/KTX-Software/stargazers)  
+9. **[KTX-Software (`KhronosGroup/KTX-Software`)](https://github.com/KhronosGroup/KTX-Software)** [![GitHub_Stars](https://img.shields.io/github/stars/KhronosGroup/KTX-Software?style=social&color=white)](https://github.com/KhronosGroup/KTX-Software/stargazers)  
    The Khronos Group's official open-source (`Apache-2.0`) toolset for encoding and validating GPU-ready `.ktx2` textures with Basis Universal supercompression (UASTC and ETC1S) for real-time WebGL, WebGPU, and 3D game engines.
 
-10. **[Scenario Blender Plugin (`scenario-labs/blender-plugin`)](https://github.com/scenario-labs/blender-plugin)** [![GitHub stars](https://img.shields.io/github/stars/scenario-labs/blender-plugin?style=social&color=white)](https://github.com/scenario-labs/blender-plugin/stargazers)  
+10. **[Scenario Blender Plugin (`scenario-labs/blender-plugin`)](https://github.com/scenario-labs/blender-plugin)** [![GitHub_Stars](https://img.shields.io/github/stars/scenario-labs/blender-plugin?style=social&color=white)](https://github.com/scenario-labs/blender-plugin/stargazers)  
     Open-source (`GPL-3.0-or-later`) native Blender extension bringing AI viewport texturing, consistent asset style engines, and PBR material generation directly to 3D artists.
 
-11. **[TextureSynthesis (`mxgmn/TextureSynthesis`)](https://github.com/mxgmn/TextureSynthesis)** [![GitHub stars](https://img.shields.io/github/stars/mxgmn/TextureSynthesis?style=social&color=white)](https://github.com/mxgmn/TextureSynthesis/stargazers)  
+11. **[TextureSynthesis (`mxgmn/TextureSynthesis`)](https://github.com/mxgmn/TextureSynthesis)** [![GitHub_Stars](https://img.shields.io/github/stars/mxgmn/TextureSynthesis?style=social&color=white)](https://github.com/mxgmn/TextureSynthesis/stargazers)  
     Pioneering open-source implementation of example-based pixel texture synthesis algorithms by the creator of WaveFunctionCollapse.
 
-12. **[SUPRA-Tex (`Supra-3D/SUPRA-Tex`)](https://github.com/Supra-3D/SUPRA-Tex)** [![GitHub stars](https://img.shields.io/github/stars/Supra-3D/SUPRA-Tex?style=social&color=white)](https://github.com/Supra-3D/SUPRA-Tex/stargazers)  
+12. **[SUPRA-Tex (`Supra-3D/SUPRA-Tex`)](https://github.com/Supra-3D/SUPRA-Tex)** [![GitHub_Stars](https://img.shields.io/github/stars/Supra-3D/SUPRA-Tex?style=social&color=white)](https://github.com/Supra-3D/SUPRA-Tex/stargazers)  
     Super-aligned open-source (`Apache-2.0` / research) 3D texture generation framework combining MLLM reference-view PBR estimation, native surface observation encoding, and an Interleaved Flow Transformer to export relightable 4K `.glb` assets.
 
-13. **[TEXTure (`TEXTurePaper/TEXTurePaper`)](https://github.com/TEXTurePaper/TEXTurePaper)** [![GitHub stars](https://img.shields.io/github/stars/TEXTurePaper/TEXTurePaper?style=social&color=white)](https://github.com/TEXTurePaper/TEXTurePaper/stargazers)  
+13. **[TEXTure (`TEXTurePaper/TEXTurePaper`)](https://github.com/TEXTurePaper/TEXTurePaper)** [![GitHub_Stars](https://img.shields.io/github/stars/TEXTurePaper/TEXTurePaper?style=social&color=white)](https://github.com/TEXTurePaper/TEXTurePaper/stargazers)  
     Official PyTorch implementation of *"TEXTure: Text-Guided Texturing of 3D Shapes"*, utilizing depth-conditioned diffusion models to paint high-resolution textures onto untextured 3D meshes dynamically from novel viewpoints.
 
-14. **[Texturize (`texturedesign/texturize`)](https://github.com/texturedesign/texturize)** [![GitHub stars](https://img.shields.io/github/stars/texturedesign/texturize?style=social&color=white)](https://github.com/texturedesign/texturize/stargazers)  
+14. **[Texturize (`texturedesign/texturize`)](https://github.com/texturedesign/texturize)** [![GitHub_Stars](https://img.shields.io/github/stars/texturedesign/texturize?style=social&color=white)](https://github.com/texturedesign/texturize/stargazers)  
     Python deep-learning and patch-based open-source (`MIT`) command-line tool for generating photorealistic textures, remixing surface variations, and synthesizing seamless PBR materials from input reference images.
 
-15. **[Text2Tex (`daveredrum/Text2Tex`)](https://github.com/daveredrum/Text2Tex)** [![GitHub stars](https://img.shields.io/github/stars/daveredrum/Text2Tex?style=social&color=white)](https://github.com/daveredrum/Text2Tex/stargazers)  
+15. **[Text2Tex (`daveredrum/Text2Tex`)](https://github.com/daveredrum/Text2Tex)** [![GitHub_Stars](https://img.shields.io/github/stars/daveredrum/Text2Tex?style=social&color=white)](https://github.com/daveredrum/Text2Tex/stargazers)  
     ICCV 2023 open-source framework for text-driven texture synthesis incorporating view-aware diffusion priors, dynamic viewpoint selection, and depth-aware inpainting to eliminate seams and stretching.
 
-16. **[DreamMat (`zzzyuqing/DreamMat`)](https://github.com/zzzyuqing/DreamMat)** [![GitHub stars](https://img.shields.io/github/stars/zzzyuqing/DreamMat?style=social&color=white)](https://github.com/zzzyuqing/DreamMat/stargazers)  
+16. **[DreamMat (`zzzyuqing/DreamMat`)](https://github.com/zzzyuqing/DreamMat)** [![GitHub_Stars](https://img.shields.io/github/stars/zzzyuqing/DreamMat?style=social&color=white)](https://github.com/zzzyuqing/DreamMat/stargazers)  
     SIGGRAPH 2024 open-source method generating high-quality SVBRDF PBR materials from text descriptions or single images using geometry- and light-aware diffusion models.
 
-17. **[MaterialAnything (`3DTopia/MaterialAnything`)](https://github.com/3DTopia/MaterialAnything)** [![GitHub stars](https://img.shields.io/github/stars/3DTopia/MaterialAnything?style=social&color=white)](https://github.com/3DTopia/MaterialAnything/stargazers)  
+17. **[MaterialAnything (`3DTopia/MaterialAnything`)](https://github.com/3DTopia/MaterialAnything)** [![GitHub_Stars](https://img.shields.io/github/stars/3DTopia/MaterialAnything?style=social&color=white)](https://github.com/3DTopia/MaterialAnything/stargazers)  
     CVPR 2025 Highlight open-source foundation model for generating physically accurate PBR material maps (`Albedo`, `Roughness`, `Metallic`) on generated, scanned, and untextured 3D geometry alongside the 80K+ `Material3D` dataset.
 
-18. **[Materia (`Metric/Materia`)](https://github.com/Metric/Materia)** [![GitHub stars](https://img.shields.io/github/stars/Metric/Materia?style=social&color=white)](https://github.com/Metric/Materia/stargazers)  
+18. **[Materia (`Metric/Materia`)](https://github.com/Metric/Materia)** [![GitHub_Stars](https://img.shields.io/github/stars/Metric/Materia?style=social&color=white)](https://github.com/Metric/Materia/stargazers)  
     Open-source (`MIT`) standalone node-based procedural texture and PBR material authoring application written in C# and inspired by Substance Designer workflows.
 
-19. **[SceneTex (`daveredrum/SceneTex`)](https://github.com/daveredrum/SceneTex)** [![GitHub stars](https://img.shields.io/github/stars/daveredrum/SceneTex?style=social&color=white)](https://github.com/daveredrum/SceneTex/stargazers)  
+19. **[SceneTex (`daveredrum/SceneTex`)](https://github.com/daveredrum/SceneTex)** [![GitHub_Stars](https://img.shields.io/github/stars/daveredrum/SceneTex?style=social&color=white)](https://github.com/daveredrum/SceneTex/stargazers)  
     CVPR 2024 Highlight open-source framework generating globally consistent, high-resolution textures across multi-object indoor 3D scenes using cross-view diffusion attention.
 
-20. **[Ubisoft La Forge Chord (`ubisoft/ubisoft-laforge-chord`)](https://github.com/ubisoft/ubisoft-laforge-chord)** [![GitHub stars](https://img.shields.io/github/stars/ubisoft/ubisoft-laforge-chord?style=social&color=white)](https://github.com/ubisoft/ubisoft-laforge-chord/stargazers)  
+20. **[Ubisoft La Forge Chord (`ubisoft/ubisoft-laforge-chord`)](https://github.com/ubisoft/ubisoft-laforge-chord)** [![GitHub_Stars](https://img.shields.io/github/stars/ubisoft/ubisoft-laforge-chord?style=social&color=white)](https://github.com/ubisoft/ubisoft-laforge-chord/stargazers)  
     Open-source chain-of-rendering decomposition framework from Ubisoft La Forge estimating complete SVBRDF PBR material maps (`Base Color`, `Roughness`, `Height`, `Normal`) from AI-generated 2D textures.
 
-21. **[Paint-it (`kaist-ami/Paint-it`)](https://github.com/kaist-ami/Paint-it)** [![GitHub stars](https://img.shields.io/github/stars/kaist-ami/Paint-it?style=social&color=white)](https://github.com/kaist-ami/Paint-it/stargazers)  
+21. **[Paint-it (`kaist-ami/Paint-it`)](https://github.com/kaist-ami/Paint-it)** [![GitHub_Stars](https://img.shields.io/github/stars/kaist-ami/Paint-it?style=social&color=white)](https://github.com/kaist-ami/Paint-it/stargazers)  
     CVPR 2024 open-source text-to-texture synthesis pipeline leveraging Deep Convolutional Physically-Based Rendering (`DC-PBR`) parameter optimization to output high-fidelity relightable PBR UV texture maps.
 
-22. **[InTeX (`ashawkey/InTeX`)](https://github.com/ashawkey/InTeX)** [![GitHub stars](https://img.shields.io/github/stars/ashawkey/InTeX?style=social&color=white)](https://github.com/ashawkey/InTeX/stargazers)  
+22. **[InTeX (`ashawkey/InTeX`)](https://github.com/ashawkey/InTeX)** [![GitHub_Stars](https://img.shields.io/github/stars/ashawkey/InTeX?style=social&color=white)](https://github.com/ashawkey/InTeX/stargazers)  
     Interactive text-to-texture synthesis codebase featuring unified depth-aware inpainting, camera view traversal, and real-time mesh surface texturing.
 
-23. **[ComfyUI-TextureAlchemy (`amtarr/ComfyUI-TextureAlchemy`)](https://github.com/amtarr/ComfyUI-TextureAlchemy)** [![GitHub stars](https://img.shields.io/github/stars/amtarr/ComfyUI-TextureAlchemy?style=social&color=white)](https://github.com/amtarr/ComfyUI-TextureAlchemy/stargazers)  
+23. **[ComfyUI-TextureAlchemy (`amtarr/ComfyUI-TextureAlchemy`)](https://github.com/amtarr/ComfyUI-TextureAlchemy)** [![GitHub_Stars](https://img.shields.io/github/stars/amtarr/ComfyUI-TextureAlchemy?style=social&color=white)](https://github.com/amtarr/ComfyUI-TextureAlchemy/stargazers)  
     Open-source modular ComfyUI node pack that synthesizes complete PBR map sets (`Albedo`, `Normal`, `Roughness`, `Metallic`, `AO`, `Height`, `Curvature`) from single input images with seamless tiling and ORM channel packing.
 
-24. **[PATINA (`lovisdotio/fal-texture-pbr-generator`)](https://github.com/lovisdotio/fal-texture-pbr-generator)** [![GitHub stars](https://img.shields.io/github/stars/lovisdotio/fal-texture-pbr-generator?style=social&color=white)](https://github.com/lovisdotio/fal-texture-pbr-generator/stargazers)  
+24. **[PATINA (`lovisdotio/fal-texture-pbr-generator`)](https://github.com/lovisdotio/fal-texture-pbr-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/lovisdotio/fal-texture-pbr-generator?style=social&color=white)](https://github.com/lovisdotio/fal-texture-pbr-generator/stargazers)  
     Open-source web-based AI PBR texture studio extracting BaseColor, Normal, Roughness, Metallic, and Displacement maps from natural language prompts or uploaded photos with real-time Three.js 3D sphere viewport previews.
 
-25. **[Open Painter (`caspianmoon/open_painter`)](https://github.com/caspianmoon/open_painter)** [![GitHub stars](https://img.shields.io/github/stars/caspianmoon/open_painter?style=social&color=white)](https://github.com/caspianmoon/open_painter/stargazers)  
+25. **[Open Painter (`caspianmoon/open_painter`)](https://github.com/caspianmoon/open_painter)** [![GitHub_Stars](https://img.shields.io/github/stars/caspianmoon/open_painter?style=social&color=white)](https://github.com/caspianmoon/open_painter/stargazers)  
     Free and open-source (`GPL-3.0+`) non-destructive PBR texturing suite running natively inside Blender 5.2+ with layer stacks, 8 PBR channels, 50 smart materials, curvature/normal mesh-map baking, and particle brushes.
 
 ---
