@@ -30,71 +30,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global 3D mapping, modeling, and digital material synthesis market is valued at approximately **$8.3B–$12.6B** and projected to expand past **$25B+ by 2033** (CAGR ~14%–17%), driven by real-time game engines, virtual production, digital twins, and generative 3D pipelines. The industry dynamics are **moderately concentrated at the foundational tool and ecosystem tier**—dominated by heavyweight platform leaders like Adobe (Substance 3D) and Epic Games (Fab / Quixel Megascans)—while remaining **fragmented across specialized niche asset libraries, bespoke scan providers, and community open-access repositories**.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Adobe Substance 3D (Designer, Painter, Sampler & Assets)](https://adobe.com)**  
-
-  Industry-standard commercial ecosystem for node-based procedural material authoring, 3D PBR mesh painting, AI photo-to-material extraction, and cloud parametric material libraries.
-
-
-
-- **[Poliigon & Poliigon Cloud](https://poliigon.com)**  
-
-  Subscription-based library of ultra-high-resolution photorealistic PBR textures, surface imperfections, and 3D architectural models with native Blender, 3ds Max, and Cinema 4D plugins.
-
-
-
-- **[Quixel Megascans (Fab)](https://quixel.com)**  
-
-  Massive cloud library of calibrated photogrammetry PBR surfaces, decals, and atlases integrated with Epic Games Fab and Quixel Mixer.
-
-
-
-- **[Textures.com](https://textures.com)**  
-
-  Established digital material repository offering scanned PBR texture sets, photo-sourced surface atlases, and AI-assisted seamless material tools.
-
-
-
-- **[Arroway Textures](https://arroway-textures.ch)**  
-
-  Commercial architectural visualization texture library specializing in ultra-high-resolution, tileable wood, concrete, stone, and fabric PBR map collections.
-
-
-
-- **[GameTextures.com](https://gametextures.com)**  
-
-  Cloud-hosted procedural and scanned PBR material library tailored for real-time game engines with customizable substance parameters.
-
-
-
-- **[3D.sk](https://3d.sk)**  
-
-  Specialized commercial reference and texture library providing high-resolution human skin scans, anatomical surface maps, and organic textures for character artists.
-
-
-
-- **[Poly Haven (formerly Texture Haven)](https://polyhaven.com)**  
-
-  Community-funded open-access platform hosting 100% free, `CC0` public-domain 8K/16K scanned PBR texture sets with direct Blender and API integration.
-
-
-
-- **[ambientCG (formerly CC0 Textures)](https://ambientcg.com)**  
-
-  Public-domain (`CC0`) cloud repository offering thousands of high-resolution procedural and scanned PBR materials, SBSAR files, and decals with no login required.
+| Platform | Company Valuation / Revenue | Pricing | Free Tier Limits | Key Highlights & Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Substance 3D](https://adobe.com)** | ~$95B Market Cap (Adobe Inc.) | $24.99/mo (Texturing Plan) or $59.99/mo (Substance 3D Collection) | 30-day free trial (Full Collection access, full software features, converted to paid if not cancelled; free non-commercial access for verified students/educators) | Industry-standard commercial ecosystem for node-based procedural material authoring (Designer), 3D PBR mesh painting (Painter), AI photo-to-material extraction (Sampler), and cloud parametric asset libraries. |
+| **[Quixel Megascans (Fab)](https://quixel.com)** | ~$22.5B Valuation (Epic Games) | $0.00 (100% Free on Epic Games Fab marketplace) | Unlimited free downloads across the entire 23,000+ Megascans photogrammetry library with full commercial use and AI model training permissions | Massive cloud repository of calibrated photogrammetry PBR surfaces, 3D scans, vegetation, decals, and environment atlases integrated directly into Epic Games Fab and Unreal Engine. |
+| **[Textures.com](https://textures.com)** | ~$3.6M Estimated Annual Revenue | $13.00/mo (billed annually, 1,000 credits/mo) or $19.00/mo month-to-month | Free sample catalog tier with access to low/medium-resolution texture downloads at 0 credits for logged-in accounts; high-resolution PBR/SBS files require paid credits | Established digital surface and scanned texture repository offering photo-sourced surface atlases, seamless PBR texture sets, SBS source materials, and AI-assisted texturing utilities. |
+| **[Poliigon & Poliigon Cloud](https://poliigon.com)** | ~$3.3M Estimated Annual Revenue | $6.99/mo (Starter credit plan) or $29.00/mo (Pro plan) | Free forever account granting perpetual download access to a curated catalog of 100+ free PBR textures, models, and HDRIs under a commercial-use Free License | Cloud-based library of ultra-high-resolution photorealistic PBR textures, surface imperfections, brushes, and architectural materials with native Blender, 3ds Max, and Cinema 4D plugins. |
+| **[3D.sk](https://3d.sk)** | ~$1M–$2M Estimated Niche Revenue | €24.90/mo (Hobby plan, 25 credits/mo) or €59.90/mo (Commercial plan) | Limited free downloadable sample texture pack and photo reference sets to inspect resolution/quality prior to purchase (no recurring free credits) | Specialized commercial reference and material repository providing high-resolution human skin scans, anatomical surface maps, and organic textures for character artists. |
+| **[GameTextures.com](https://gametextures.com)** | <$1M Estimated Niche Revenue | $11.00/mo (Indie plan) or $30.00/mo (Studio/Pro plan) | Free forever account providing access to rotating promotional freebie packs and a dedicated free sample catalog with restricted indie licensing | Cloud-hosted procedural and scanned PBR material library tailored for real-time game engines with customizable Substance SBSAR parameters and trim sheets. |
+| **[Arroway Textures](https://arroway-textures.ch)** | <$1M Estimated Niche Revenue | €119.00 per full collection/volume (one-time purchase; no monthly recurring tier) | Free low-resolution downloadable sample textures for map testing and resolution evaluation across wood, stone, and tile categories | Commercial architectural visualization texture library specializing in ultra-high-resolution, tileable wood, concrete, stone, and fabric PBR map collections. |
+| **[Poly Haven](https://polyhaven.com)** | Non-Profit / Community-Funded Platform | $0.00 / Free Open Access (100% community-patron supported) | Unlimited free downloads; 100% of the entire library is public domain under `CC0` with no account, paywall, or daily rate limits up to 16K resolution | Community-funded open-access platform hosting 100% free, `CC0` public-domain scanned PBR texture sets, HDRIs, and models with direct Blender and API integration. |
+| **[ambientCG](https://ambientcg.com)** | Non-Profit / Community-Funded Platform | $0.00 / Free Open Access (100% community-patron supported) | Unlimited free downloads; 100% of all assets are public domain under `CC0` with zero paywalls, no login required, and full bulk download access | Public-domain (`CC0`) cloud repository offering thousands of high-resolution procedural and scanned PBR materials, SBSAR files, 3D scans, and decals. |
 
 
 
